@@ -1,5 +1,5 @@
 # github-test-1
-trying pt 1
+try 1
 <!DOCTYPE html>
 <html lang="en">
 <head>
