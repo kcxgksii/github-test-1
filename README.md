@@ -11,7 +11,7 @@ try 1
 <body>
     <div class="wrapper">
         <h2 class="question">Can we meet up tomorrow?</h2>
-        <img class="gif" alt="gif" src="[https://media.giphy.com/media/FTGah7Mx3ss04PcasF/giphy.gif"/>
+        <img class="gif" alt="gif" src="https://media.giphy.com/media/FTGah7Mx3ss04PcasF/giphy.gif"/>
         <div class="btn-group">
             <button class="maybe-btn">Yes</button>
             <button class="yes-btn">No</button>
